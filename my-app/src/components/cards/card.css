@@ -1,0 +1,19 @@
+
+
+.card
+{    display: flex;
+    flex-direction: row;
+    width:330px;
+    height:270px;
+    display: inline-block;
+    border-radius: 10px;
+    padding:15px 25px;
+    box-sizing: border-box;
+    margin: 10px 15px;
+    background-image: url("https://e0.pxfuel.com/wallpapers/353/243/desktop-wallpaper-plain-white-bright-white.jpg");
+background-position: center;
+background-size:cover;
+margin-top: 10%;
+margin-bottom: 1.5%;
+}
+
